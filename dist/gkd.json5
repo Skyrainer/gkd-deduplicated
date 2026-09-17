@@ -1,7 +1,7 @@
 {
   "id": 26091601,
   "name": "GKD订阅",
-  "version": 1,
+  "version": 2,
   "author": "gpt",
   "checkUpdateUrl": "./gkd.version.json5",
   "supportUri": "https://github.com/ltt2077/gkd-merged",
